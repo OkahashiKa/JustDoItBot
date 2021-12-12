@@ -1,6 +1,3 @@
 # JustDoItBot
 
 やることやってんか！のBot。
-
-channel secret: adfd03b27d16fdbab2e4174b67e7a50d
-channel access token: IfSYOOzgffoBSEBlEqgsRw3OjVXxYKI0SiNvj00MpIndkzrcFVmGlOgXW75Z/S8uVl+4gfRoXt2eHCarNAUBkAI5i+xixUuJkO/GUse5NQukFxdiDHm8LcNFNdSUrAt1kGgCbY8ACb7uYTO+KRHpRQdB04t89/1O/w1cDnyilFU=
